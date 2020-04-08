@@ -1690,6 +1690,11 @@ Graph Generation
 	| :authors:`Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang`
 	| :venue:`ICLR 2020`
 
+`GraphGen: A Scalable Approach to Domain-agnostic Labeled Graph Generation
+<https://arxiv.org/abs/2001.08184>`_
+    | :authors:`Nikhil Goyal*, Harsh Vardhan Jain*, Sayan Ranu`
+    | :venue:`WWW 2020`
+
 Graph Layout and High-dimensional Data Visualization
 ====================================================
 
